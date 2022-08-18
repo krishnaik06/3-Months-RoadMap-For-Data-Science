@@ -31,6 +31,7 @@ Feature Selection Playlist: https://www.youtube.com/watch?v=uMlU2JaiOd8&list=PLZ
 English:
 
 Live ML Playlist: https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
 Complete ML Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
 
 Hindi:
@@ -39,12 +40,14 @@ ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlz
 ## Deep Learning Playlist:
 
 5 DaysLive Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
 Complete Deep Learning Playlist: https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi
 
 ## NLP Playlist:
 
 English:
 Live NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
 Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
 
 ## iNeuron Courses:
