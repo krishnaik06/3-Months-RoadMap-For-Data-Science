@@ -50,6 +50,8 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 ## iNeuron Courses:
 
 TechNeuron: 200+courses
+
 Course url: https://ineuron.ai/one-neuron
+
 Full Stack Data Scientist Bootcamp 2.0 With Job Guaranteed:
 https://ineuron.ai/course/Full-Stack-Data-Science-BootCamp-2.0
