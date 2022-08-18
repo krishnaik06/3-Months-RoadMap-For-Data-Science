@@ -1,6 +1,6 @@
 # 3 Months RoadMap For Data Science
 
-## Python:  ![image](https://user-images.githubusercontent.com/20041231/185440263-797633f9-5c09-4db3-ab5c-ff84bcfa68ab.png)
+## Python:
 
 Python In English:https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
 
@@ -20,6 +20,7 @@ Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YH
 English:
 
 Complete Detailed Feature Engineering: https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
+
 Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
 ## Feature Selection:
