@@ -15,6 +15,11 @@ Statistics in ML(43 videos): https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PL
 Hindi:
 Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ
 
+## EDA Playlist:
+EDA Live :https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
+
+EDA Detailed Playlist: https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
+
 ## Feature Engineering
 
 English:
