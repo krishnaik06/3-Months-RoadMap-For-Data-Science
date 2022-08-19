@@ -66,3 +66,4 @@ Course url: https://ineuron.ai/one-neuron
 
 Full Stack Data Scientist Bootcamp 2.0 With Job Guaranteed:
 https://ineuron.ai/course/Full-Stack-Data-Science-BootCamp-2.0
+Use Krish20 coupon code for 20% off
